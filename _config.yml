@@ -1,0 +1,19 @@
+---
+title: RussNet
+subtitle: WordNet-словарь для русского языка
+
+description: >-
+  Информационный сайт электронного тезауруса RussNet,
+  разработанного на кафедре математической лингвистики СПбГУ.
+copyright: |
+  Сайт создан при поддержке гранта РГНФ №&nbsp;16-04-12019 «Интеграция тезаурусов RussNet и YARN»
+  1999–2020 &copy; Кафедра математической лингвистики СПбГУ
+
+header_pages:
+  - index.md
+  - sources.md
+  - dictionary.md
+  - integration.md
+  - synsets.md
+
+theme: minima
